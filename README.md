@@ -1,4 +1,12 @@
-Replication repository for the paper "Architecting Complex, Long-Lived Scientific Software" 
+# Replication repository for the paper "Architecting Complex, Long-Lived Scientific Software" 
+
+review_scenarios.csv - the elicited set of scenarios for the initial design review discussion as part of the Mission Thread Workshop.
+
+architectural_approaches.csv - a list of identified architectural approaches
+
+Close out documentation can be found at [the SDP site](https://web.archive.org/web/20221202173301/https://ska-sdp.org/publications/sdp-cdr-closeout-documentation).
+
+----
 
 Where not otherwise covered, the material in this package is governed by the following licence:
 
