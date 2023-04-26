@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+authors:
+- family-names: "Ernst"
+  given-names: "Neil"
+  orcid: "https://orcid.org/0000-0001-5992-2366"
+- family-names: "Klein"
+  given-names: "John"
+- family-names: "Bartolini"
+  given-names: "Marco"
+- family-names: "Rees"
+  given-names: "Nick"
+- family-names: "Coles"
+  given-names: "Jeremy"
+title: "Replication Package for 'Architecting Complex, Long-Lived Scientific Software'"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-26
+url: "https://github.com/neilernst/ska_cdr_repl"
